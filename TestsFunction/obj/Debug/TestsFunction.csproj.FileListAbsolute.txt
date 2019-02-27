@@ -1,0 +1,9 @@
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\bin\Debug\TestsFunction.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\bin\Debug\TestsFunction.pdb
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\obj\Debug\TestsFunction.csprojResolveAssemblyReference.cache
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\obj\Debug\TestsFunction.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\obj\Debug\TestsFunction.pdb
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\bin\Debug\MyPoker.exe
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\bin\Debug\MyPoker.pdb
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestsFunction\bin\Debug\Properties\AssemblyInfo.cs

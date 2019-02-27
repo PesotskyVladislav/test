@@ -1,0 +1,71 @@
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\bin\Debug\MyPoker.exe.config
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\obj\Debug\MyPoker.csprojResolveAssemblyReference.cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\obj\Debug\MyPoker.Form1.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\obj\Debug\MyPoker.Properties.Resources.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\obj\Debug\MyPoker.csproj.GenerateResource.Cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\bin\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\bin\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\obj\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker\MyPoker\obj\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\bin\Debug\MyPoker.exe.config
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\obj\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\obj\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\bin\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\bin\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\obj\Debug\MyPoker.csprojResolveAssemblyReference.cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\obj\Debug\MyPoker.Form1.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\obj\Debug\MyPoker.Properties.Resources.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v2.1 09.12.2017\MyPoker\obj\Debug\MyPoker.csproj.GenerateResource.Cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\bin\Debug\MyPoker.exe.config
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\obj\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\obj\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\bin\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\bin\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\obj\Debug\MyPoker.csprojResolveAssemblyReference.cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\obj\Debug\MyPoker.Form1.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\obj\Debug\MyPoker.Properties.Resources.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v3.1 09.12.2017\MyPoker\obj\Debug\MyPoker.csproj.GenerateResource.Cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\bin\Debug\MyPoker.exe.config
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\obj\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\obj\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\bin\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\bin\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\obj\Debug\MyPoker.csprojResolveAssemblyReference.cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\obj\Debug\MyPoker.Form1.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\obj\Debug\MyPoker.Properties.Resources.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v4.1 24.12.2017\MyPoker\obj\Debug\MyPoker.csproj.GenerateResource.Cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\bin\Debug\MyPoker.exe.config
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\obj\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\obj\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\obj\Debug\MyPoker.csprojResolveAssemblyReference.cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\obj\Debug\MyPoker.Form1.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\obj\Debug\MyPoker.Properties.Resources.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\obj\Debug\MyPoker.csproj.GenerateResource.Cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\bin\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v5.1 24512.2017\MyPoker\bin\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\bin\Debug\MyPoker.exe.config
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\obj\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\obj\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\bin\Debug\MyPoker.exe
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\bin\Debug\MyPoker.pdb
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\obj\Debug\MyPoker.csprojResolveAssemblyReference.cache
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\obj\Debug\MyPoker.Form1.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\obj\Debug\MyPoker.Properties.Resources.resources
+C:\Users\Лера\Desktop\PokerGame\MyPoker v6.1.final\MyPoker\obj\Debug\MyPoker.csproj.GenerateResource.Cache
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\MyPoker\bin\Debug\MyPoker.exe.config
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\MyPoker\bin\Debug\MyPoker.exe
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\MyPoker\bin\Debug\MyPoker.pdb
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\MyPoker\obj\Debug\MyPoker.Form1.resources
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\MyPoker\obj\Debug\MyPoker.Properties.Resources.resources
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\MyPoker\obj\Debug\MyPoker.csproj.GenerateResource.Cache
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\MyPoker\obj\Debug\MyPoker.exe
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\MyPoker\obj\Debug\MyPoker.pdb
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\bin\Debug\MyPoker.exe.config
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\obj\Debug\MyPoker.exe
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\obj\Debug\MyPoker.pdb
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\bin\Debug\MyPoker.exe
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\bin\Debug\MyPoker.pdb
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\obj\Debug\MyPoker.csprojResolveAssemblyReference.cache
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\obj\Debug\MyPoker.Form1.resources
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\obj\Debug\MyPoker.Properties.Resources.resources
+C:\Users\XXXX\Downloads\UKPO_Kursovik\УКПО Курсовик\UKPOWin-master\UKPOWin-master\MyPoker\obj\Debug\MyPoker.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\TestUI.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\TestUI.pdb
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\Castle.Core.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\nunit.framework.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\TestStack.White.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\Castle.Core.xml
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\nunit.framework.xml
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\TestStack.White.pdb
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\bin\Debug\TestStack.White.xml
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\obj\Debug\TestUI.dll
+C:\Users\sasha\GitHub\UKPOWin(AppVeyor)\UKPOWin\TestUI\obj\Debug\TestUI.pdb
